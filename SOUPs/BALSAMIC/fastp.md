@@ -1,8 +1,6 @@
-# SOUP Declaration
-
+---
+# fastp
 ## General:
-**Name:** fastp
-
 **Version:** 0.23.2
 
 **Website:** https://github.com/OpenGene/fastp
