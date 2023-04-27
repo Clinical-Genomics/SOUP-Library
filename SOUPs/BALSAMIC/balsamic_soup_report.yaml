@@ -1,9 +1,7 @@
 ---
-title: SOUP Report settings
-author: Clinical Genomics
+title: BALSAMIC - SOUP Report
 header-includes: |
     \usepackage{fancyhdr}
     \pagestyle{fancy}
     \fancyhead[CO,CE]{BALSAMIC - SOUP Report}
-abstract: This is a pandoc test . . .
 ---
