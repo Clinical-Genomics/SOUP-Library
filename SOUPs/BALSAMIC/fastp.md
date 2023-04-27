@@ -15,9 +15,11 @@
 **Use allowed?** Yes
 
 ## Intended use
-*How is the SOUP intended to be used in any given product*
+fastp is used for trimming the raw sequence files (fastq) from adapters and low quality seqeunces.
 
 ## Anomaly assessment
 **Anomaly list:** https://github.com/OpenGene/fastp/issues
+
+**Assessment date:** 
 
 *Are there any anomalies which could lead to dangerous situations?*
