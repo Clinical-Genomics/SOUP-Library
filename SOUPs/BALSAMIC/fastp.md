@@ -21,4 +21,4 @@ fastp is used for trimming the raw sequence files (fastq) from adapters and low 
 
 *Are there any anomalies which could lead to dangerous situations?*
 
-<div style="page-break-before: always;"></div>
+\newpage

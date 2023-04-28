@@ -24,4 +24,4 @@ tool can be used to identify this.
 
 No logged anomalies were considered relevant for the intended use of somalier.
 
-<div style="page-break-before: always;"></div>
+\newpage

@@ -3,4 +3,5 @@ title: BALSAMIC - SOUP Report
 header-includes: |
     \usepackage{fancyhdr}
     \pagestyle{fancy}
+    \fancyhead[CO,CE]{BALSAMIC - SOUP Report}
 ---
