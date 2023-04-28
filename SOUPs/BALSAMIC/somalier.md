@@ -23,5 +23,3 @@ tool can be used to identify this.
 **Assessment date:** 2023-04-27
 
 No logged anomalies were considered relevant for the intended use of somalier.
-
-\newpage
