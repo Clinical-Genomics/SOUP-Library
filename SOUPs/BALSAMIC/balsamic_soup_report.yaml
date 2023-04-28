@@ -4,8 +4,12 @@ header-includes: |
     \usepackage{fancyhdr}
     \pagestyle{fancy}
     \fancyhead[CO,CE]{BALSAMIC - SOUP Report}
+
 abstract: |
-    \renewcommand{\abstractname}{\vspace{-\baselineskip}}
+    \usepackage{abstract}
+    \renewcommand{\abstractname}{}    % clear the title
+    \renewcommand{\absnamepos}{empty} % originally center
+    
     This report contains all SOUP reports for the BALSAMIC pipeline.
     \newpage
 abstract-title: |
