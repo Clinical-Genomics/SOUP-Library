@@ -20,3 +20,5 @@ fastp is used for trimming the raw sequence files (fastq) from adapters and low 
 **Assessment date:** 
 
 *Are there any anomalies which could lead to dangerous situations?*
+
+\newpage
