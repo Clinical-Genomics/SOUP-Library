@@ -4,10 +4,10 @@ header-includes: |
     \usepackage{fancyhdr}
     \pagestyle{fancy}
     \fancyhead[CO,CE]{BALSAMIC - SOUP Report}
+abstract: |
+    This report contains all SOUP reports for the BALSAMIC pipeline. The report is automatically generated from
+    the BALSAMIC SOUP Collection @ github.com/Clinical-Genomics/SOUP-Library 
+    \newpage
+abstract-title: |
+    Introduction
 ---
-
-# Introduction
-This report contains all SOUP reports for the BALSAMIC pipeline. The report is automatically generated from
-the BALSAMIC SOUP Collection @ github.com/Clinical-Genomics/SOUP-Library
-
-\newpage
