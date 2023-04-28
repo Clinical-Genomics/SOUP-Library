@@ -5,8 +5,8 @@ header-includes: |
     \pagestyle{fancy}
     \fancyhead[CO,CE]{BALSAMIC - SOUP Report}
 abstract: |
-    This report contains all SOUP reports for the BALSAMIC pipeline. The report is automatically generated from
-    the BALSAMIC SOUP Collection @ github.com/Clinical-Genomics/SOUP-Library 
+    \renewcommand{\abstractname}{\vspace{-\baselineskip}}
+    This report contains all SOUP reports for the BALSAMIC pipeline.
     \newpage
 abstract-title: |
     Introduction
