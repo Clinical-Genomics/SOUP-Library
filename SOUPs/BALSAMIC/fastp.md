@@ -1,5 +1,3 @@
-----
-
 # fastp
 ## General:
 **Version:** 0.23.2
@@ -22,3 +20,5 @@ fastp is used for trimming the raw sequence files (fastq) from adapters and low 
 **Assessment date:** 
 
 *Are there any anomalies which could lead to dangerous situations?*
+
+\pagebreak
