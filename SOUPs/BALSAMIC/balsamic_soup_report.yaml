@@ -4,6 +4,7 @@ header-includes: |
     \usepackage{fancyhdr}
     \pagestyle{fancy}
     \fancyhead[CO,CE]{BALSAMIC - SOUP Report}
+    \renewcommand{\abstractname}{}    % clear the title
 abstract: |
     This report contains all SOUP reports for the BALSAMIC pipeline.
     \newpage
